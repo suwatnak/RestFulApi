@@ -1,0 +1,31 @@
+{
+  "articales": [
+    {
+      "id": 1,
+      "title": "Introduction to java",
+      "authorId": 1
+    },
+     {
+      "id": 2,
+      "title": "Introduction to python",
+      "authorId": 1
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "suwat thongjor"
+    },
+    {
+      "id": 2,
+      "name": "Somchai Haha"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "message": "Hello World"
+    }
+  ]
+}
